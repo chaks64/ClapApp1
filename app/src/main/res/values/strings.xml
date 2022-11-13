@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ClapApp</string>
+    <string name="senorPos">Hand is Far</string>
+    <string name="desc">Move you hand closer to your phone to hear the clapping sound.</string>
 </resources>
